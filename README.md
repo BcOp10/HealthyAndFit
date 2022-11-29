@@ -3,4 +3,5 @@ This application is meant to count the total number of calories a user consumes.
 Video Demo: https://youtu.be/KVu3Tyc3vjw
 
 
-![](User Manual.pdf)
+
+![1](https://user-images.githubusercontent.com/114096396/204568847-3c0e8f71-6518-4b6f-a388-8558bdef6136.PNG)

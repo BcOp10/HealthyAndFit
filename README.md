@@ -8,7 +8,7 @@ This application is meant to count the total number of calories a user consumes.
 
 
 
-Video Demo: https://youtu.be/KVu3Tyc3vjw
+Video Demonstration: https://youtu.be/KVu3Tyc3vjw
 
 
 

@@ -4,6 +4,4 @@ This application is meant to count the total number of calories a user consumes.
 
 
 
-
-
-[embed]https://github.com/BcOp10/HealthyAndFit/blob/main/User%20Manual.pdf[/embed]
+![](HealthyAndFit/User Manual.pdf)
